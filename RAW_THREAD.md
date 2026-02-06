@@ -348,3 +348,80 @@ A simple manifesto overview:
 5. Soft and hard skills, new world hard skills
 
 Each of those links to expansion areas on that topic, but that is the core premise of it. Clean and simple. That's all that is on the core page.
+
+---
+
+## Claude - Follow-up Questions (Round 2)
+
+1. Who is "you" in this app? Is the app's personality Joel's perspective/manifesto, or neutral?
+2. What's Liv's starting point - skeptical, indifferent, mildly curious?
+3. The 5-pillar manifesto page - website, app, or newsletter?
+4. The chatbot element - how central is it to MVP?
+5. What curated resources do you already have and where are they?
+
+---
+
+## Joel - Answers (Round 2)
+
+### Voice & Identity
+- Yes it's an opinionated place, reflecting me and my voice/opinions
+- Could have a separate neutral version later, but v1 should be clear on the perspective this project takes
+- Won't be under my name though, it'll be a pseudonym (TBD)
+
+### Tone of the Wake-Up Call
+- Should be strong and shocking - but not so much as to be not fun to engage with and too worrying
+- Should eventually explain that the purpose of this site/experience is to carry her through
+- But it's not going to be a smooth ride, there's a lot to unpack and to share, understand, process
+- The future belongs to those who decide who they really want to be in the future world
+- So I'm here to explain what it might look like - and equip you with that information and other tools to make the most of it and prepare for it
+- Underlying tone of optimism - the single best thing anyone can do right now in this scary moment is TRY
+- Try to think about it, try to prep - like the 10 minute fire example
+- When you have 10 mins before an impending disaster, you just prep, then prep your mind, then go
+- Take action, get on with it, head first, sprint
+- ACTION MAKES THE ANXIETY DISAPPEAR
+
+### Voice / Tone (refined)
+- Tone is as written in the raw notes - but without the mega harsh writing from frustration
+- Not frustrated with Liv or visitors
+- But urgent and desperate to help them and get them to understand what I see
+- Up against it, needing to get through to them
+- Very clear, certain, clear cut, not pulling punches
+- Verging on the offensive to the soft people
+- Just good straight talking - actually perhaps offensive
+- But not from an angry or malicious point of view
+- Just OK with stating facts which they may not like to hear
+- **Summary: straight-talking, certain, urgent, comfortable stating uncomfortable truths. Not angry, not malicious - but zero sugarcoating. A friend who cares enough to tell you what you don't want to hear.**
+
+### Platform Decision
+- Website is simplest place to start
+- Everything has to have a website
+
+### Chatbot
+- Core to getting people to engage and tell us about who they are
+- Appreciates it is complexity
+- But core experience has to be maximally personalised
+- Should feel like their little assistant with insanely good knowledge
+- Helpful highlights, a good optimistic but realistic perspective
+- Absolute clarity on the future
+
+### Curated Resources
+- Hundreds of resources and YouTube video URLs saved and categorised in Google NotebookLM
+- NotebookLM has no official consumer API
+- Options: unofficial Python library (notebooklm-py), Apify actor, or manual export
+- Manual export likely easiest given it's mostly URLs with categories
+
+### Tech Stack
+- Agreed: Next.js, Vercel, Claude API, content in markdown/simple CMS
+
+---
+
+## Decisions Made So Far
+
+- **Platform:** Website first, email capture for daily drip
+- **Voice:** Opinionated, Joel's perspective under a pseudonym
+- **Tone:** Straight-talking, urgent, not angry but zero sugarcoating
+- **Chatbot:** In MVP, scoped to wake-up call / "understand the facts" pillar initially
+- **Tech stack:** Next.js, Vercel, Claude API, markdown content
+- **Content:** Curated resources (export from NotebookLM) + new content (blog posts, research reports, reactions to news)
+- **Personalisation:** Generic to start, personalised over time
+- **Cadence:** Daily/weekly drip via email, website as home base
