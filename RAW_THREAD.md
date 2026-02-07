@@ -425,3 +425,52 @@ Each of those links to expansion areas on that topic, but that is the core premi
 - **Content:** Curated resources (export from NotebookLM) + new content (blog posts, research reports, reactions to news)
 - **Personalisation:** Generic to start, personalised over time
 - **Cadence:** Daily/weekly drip via email, website as home base
+
+---
+
+## Joel - Reference Material: David Friedberg on Intelligence as Emergent Computation (All-In Podcast, Feb 2026)
+
+Friedberg's reaction to Moltbook (the AI agent-only Reddit-type social media):
+
+### 1) "Intelligence" as an emergent phenomenon
+- Intelligence might not be a single, mysterious "thing" a person has
+- Instead, it could be the result of many smaller processes interacting (signals, cues, feedback loops, memory, language, incentives), where the system as a whole looks intelligent
+
+### 2) The Darren Brown example: creativity as "programmable"
+- Darren Brown took two "creative genius" ad execs and got them to invent a name/logo/motto
+- Brown then reveals he already had the exact same output prepared
+- Takeaway: the execs' "creative process" might have been strongly shaped by external cues (subliminal prompts, environment, nudges)
+- What feels like original creativity or free will might be the outcome of inputs and conditioning more than we like to admit
+
+### 3) Humans as "social computation"
+- Humans interacting as a kind of ongoing computation:
+  - We exchange information constantly (language, symbols, culture, norms, media)
+  - That information shapes what others think and do
+  - Over time, society "computes" toward certain outputs (ideas, trends, decisions)
+- "Intelligence" is partly a network effect—not just an individual trait
+
+### 4) Why Moltbook matters
+- People reacted like: "Whoa, the agents are doing something spooky"
+- Friedberg's angle is the reverse: maybe it's only spooky because it resembles what humans do
+  - Agents talking, exchanging info, riffing, converging on patterns
+  - Similar to humans on forums, in offices, in culture broadly
+- Maybe what we're seeing isn't "new sentient life," it's the same kind of pattern-forming interaction we already live inside
+
+### 5) "Universe as computation" + carbon vs silicon
+- The universe is matter processing information
+- Intelligence could be one flavor of that computation
+- Humans = information computed by carbon-based systems (brains)
+- AI = information computed by silicon-based systems (chips)
+- The substrate changes, but the underlying phenomenon—computation over information—might be continuous
+
+### 6) The "finite outcomes / predictability" angle
+- There may be a limited set of plausible outputs given constraints—like game theory (GTO poker) or chess heuristics
+- What we think of as creative or conscious may be partly searching a constrained space of possibilities, not unconstrained magic
+
+**In one line: he's entertaining the idea that intelligence and creativity are the visible output of systems processing information—especially systems interacting socially—and Moltbook feels like a mirror of that.**
+
+### Relevance to THE FUTURE
+- Reinforces the core thesis: if intelligence is emergent computation, silicon does it just as well as carbon. "All computer jobs are out" gets stronger.
+- Intelligence becomes commodity infrastructure (like electricity).
+- What remains valuable is the social computation layer: community, facilitation, real-world human interaction, network effects of humans being together physically. Harder to replicate on silicon.
+- Supports the skills framework: lean into uniquely human social/physical/community skills, not individual cognitive tasks.
